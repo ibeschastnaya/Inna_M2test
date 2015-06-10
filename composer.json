@@ -1,0 +1,12 @@
+{
+  "name": "ibeschastnaya/inna_m2test",
+  "type": "magento-module",
+  "license":"OSL-3.0",
+  "description":"Module for experiments with Magento 2",
+  "authors":[
+    {
+      "name":"Inna Magento 2 Testing",
+      "email":"inna.beschastnaya@gmail.com"
+    }
+  ]
+}
