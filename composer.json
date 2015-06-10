@@ -1,10 +1,10 @@
 {
   "name": "ibeschastnaya/inna_m2test",
-  "type": "magento-module",
+  "type": "magento2-module",
   "license":"OSL-3.0",
   "extra": {
         "map": [
-            ["app/code/Inna/M2test", "app/code/Inna/M2test"]
+            ["app/code/Inna/M2test", "Inna/M2test"]
         ]
     },
   "description":"Module for experiments with Magento 2",
