@@ -4,10 +4,10 @@
   "license":"OSL-3.0",
   "extra": {
         "map": [
-            ["app/code/Inna/M2test", "Inna/M2test"]
+            ["app/code/Inna/SystemConfig", "Inna/SystemConfig"]
         ]
     },
-  "description":"Module for experiments with Magento 2",
+  "description":"Modules for experiments with Magento 2",
   "authors":[
     {
       "name":"Inna Magento 2 Testing",
